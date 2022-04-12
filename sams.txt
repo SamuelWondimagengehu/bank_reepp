@@ -1,3 +1,0 @@
-Hey dude this is me leaving you a commit message to tell you that
-I have changed the base code in many ways and that I am loving the new
-git version. Holla at me when you are done!
